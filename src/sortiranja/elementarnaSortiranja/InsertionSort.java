@@ -1,4 +1,4 @@
-package elementarnaSortiranja;
+package sortiranja.elementarnaSortiranja;
 
 public class InsertionSort {
     public static <T extends Comparable<T>> void insertionSort(T[] array) {

@@ -1,4 +1,4 @@
-package elementarnaSortiranja;
+package sortiranja.elementarnaSortiranja;
 
 public class SelectionSort {
     public static <T extends Comparable<T>> void selectionSort(T[] arr) {

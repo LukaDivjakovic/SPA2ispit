@@ -1,4 +1,4 @@
-package elementarnaSortiranja;
+package sortiranja.elementarnaSortiranja;
 
 public class ExchangeSort {
     public static <T extends Comparable<T>> void sort(T[] arr) {

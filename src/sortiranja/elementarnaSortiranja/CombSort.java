@@ -1,4 +1,4 @@
-package elementarnaSortiranja;
+package sortiranja.elementarnaSortiranja;
 
 public class CombSort {
     private static int nextGap(int k) {

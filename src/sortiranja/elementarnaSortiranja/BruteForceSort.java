@@ -1,4 +1,4 @@
-package elementarnaSortiranja;
+package sortiranja.elementarnaSortiranja;
 
 public class BruteForceSort {
     public static <T extends Comparable<T>> void bruteForceSort(T[] a) {

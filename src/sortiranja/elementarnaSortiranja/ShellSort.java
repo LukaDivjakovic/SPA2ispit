@@ -1,4 +1,4 @@
-package elementarnaSortiranja;
+package sortiranja.elementarnaSortiranja;
 
 public class ShellSort {
     private static int[] gaps = {701, 301, 132, 57, 23, 10, 4, 1};
